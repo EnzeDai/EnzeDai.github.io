@@ -8,8 +8,14 @@ I am a Ph.D. student at ...
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Fuzzing:** protocol fuzzing, fuzzing theory
+- **AI Infra:**  model, framework and library security
+
+## Education
+
+- **Central South University**, China, B.E. in Information Engineering, awarded in 2023
+- **Tsinghua University**, China, M.E. in Computer Engineering, expected to be awarded in 2026
+- **Swinburne University of Technology**, Australia, Ph.D. in Computer Science, expected to be awarded in 2027
 
 ## News
 
@@ -17,12 +23,6 @@ I am a Ph.D. student at ...
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
-
-## Education
-
-- **Central South University** B.E. in Information Engineering
-- **Tsinghua University** M.E. in Computer Engineering
-- **Swinburne University of Technology** Ph.D. in Computer Science
 
 {% include_relative _includes/publications.md %}
 
