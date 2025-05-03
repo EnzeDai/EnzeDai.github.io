@@ -13,9 +13,9 @@ I am a Ph.D. student at ...
 
 ## Education
 
-- **Central South University**, China, B.E. in Information Engineering, awarded in 2023
-- **Tsinghua University**, China, M.E. in Computer Engineering, expected to be awarded in 2026
-- **Swinburne University of Technology**, Australia, Ph.D. in Computer Science, expected to be awarded in 2027
+- **Central South University**, China, B.E. in Information Engineering, 2023
+- **Tsinghua University**, China, M.E. in Computer Engineering, 2026 (Expected)
+- **Swinburne University of Technology**, Australia, Ph.D. in Computer Science, 2027 (Expected)
 
 ## News
 
