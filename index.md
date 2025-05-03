@@ -13,9 +13,9 @@ I am a Ph.D. student at ...
 
 ## Education
 
-- **Central South University**, China, B.E., 2023
-- **Tsinghua University**, China, M.E., 2026 (Expected)
-- **Swinburne University of Technology**, Australia, Ph.D., 2027 (Expected)
+- **Central South University**, China, B.Eng., 2023
+- **Tsinghua University**, China, M.Eng., 2026 (Expected)
+- **Swinburne University of Technology**, Australia, PhD, 2027 (Expected)
 
 ## News
 
