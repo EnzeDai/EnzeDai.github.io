@@ -13,9 +13,9 @@ I am a Ph.D. student at ...
 
 ## Education
 
-- **Central South University**, China, B.Eng., Electronic Information Engineering, 2023
-- **Tsinghua University**, China, M.Eng., Computer Engineering, 2026 (Expected)
-- **Swinburne University of Technology**, Australia, PhD, Computer Science, 2027 (Expected)
+- **Central South University**, B.Eng., Electronic Information Engineering, 2023
+- **Tsinghua University**, M.Eng., Computer Engineering, 2026 (Expected)
+- **Swinburne University of Technology**, Ph.D, Computer Science, 2027 (Expected)
 
 ## News
 
