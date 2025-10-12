@@ -17,11 +17,11 @@ I am a Ph.D. student at ...
 - **Tsinghua University**, M.Eng., *Computer Engineering*
 - **Swinburne University of Technology**, Ph.D, *Computer Science*
 
+{% include_relative _includes/publications.md %}
+
 ## News
 
 - **[Sep. 2025]** Our paper about blackbox protocol fuzzing is accepted by ASE 2025, see you in Seoul!
-
-{% include_relative _includes/publications.md %}
 
 ## Internship
 
