@@ -13,13 +13,13 @@ I am a Ph.D. student at ...
 
 ## Education
 
-- **Central South University**, B.Eng., *Electronic Information Engineering*, 2023
-- **Tsinghua University**, M.Eng., *Computer Engineering*, 2026 (Expected)
-- **Swinburne University of Technology**, Ph.D, *Computer Science*, 2027 (Expected)
+- **Central South University**, B.Eng., *Electronic Information Engineering*
+- **Tsinghua University**, M.Eng., *Computer Engineering*
+- **Swinburne University of Technology**, Ph.D, *Computer Science*
 
 ## News
 
-- **[Nov. 2025]** Our paper about blackbox protocol fuzzing is accepted to ASE 2025, see you in Seoul!
+- **[Sep. 2025]** Our paper about blackbox protocol fuzzing is accepted by ASE 2025, see you in Seoul!
 
 {% include_relative _includes/publications.md %}
 
