@@ -19,14 +19,13 @@ I am a Ph.D. student at ...
 
 ## News
 
-- **[Aug. 2025]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
+- **[Nov. 2025]** Our paper about blackbox protocol fuzzing is accepted to ASE 2025, see you in Seoul!
+
+{% include_relative _includes/publications.md %}
 
 ## Internship
 
 - **DiDi**, International Business Group, SDE
 - **Chaitin Tech**, Cloud-Native Security, SDE
-
-{% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
