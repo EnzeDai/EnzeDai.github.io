@@ -21,7 +21,7 @@ I am a Ph.D. student at ...
 
 ## News
 
-- **[Sep. 2025]** Our paper about blackbox protocol fuzzing is accepted by ASE 2025, see you in Seoul!
+- **[2025.09]** Our paper about blackbox protocol fuzzing is accepted by ASE 2025, see you in Seoul!
 
 ## Internship
 
