@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hi there, I am a PhD candidate under the supervision of [Yang Xiang](https://nsclab.org/yang/) (IEEE Fellow), [Sheng Wen](https://experts.swinburne.edu.au/3615-sheng-wen), and [Xiaogang Zhu](https://researchers.adelaide.edu.au/profile/xiaogang.zhu). Previously, I obtained my Bachelor's Degree from Central South University and Master's Degree from Tsinghua University.
 
 ## Research Interests
 
