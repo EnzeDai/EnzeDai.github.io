@@ -28,6 +28,6 @@ Hi there, I am fortunate to be supervised by Prof. [Yang Xiang](https://nsclab.o
 ## Internship
 
 - **DiDi**, International Business Group, SDE
-- **Chaitin Tech**, Cloud-Native Security, SDE
+- **Chaitin Tech @Alibaba Cloud**, Cloud-Native Security, SDE
 
 {% include_relative _includes/services.md %}
