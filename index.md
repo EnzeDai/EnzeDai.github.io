@@ -25,6 +25,11 @@ Hi there, I am fortunate to be supervised by Prof. [Yang Xiang](https://nsclab.o
 - **[2025.11]** Our paper WingMuzz has won an ACM SIGSOFT Distinguished Paper Award!
 - **[2025.09]** Our paper about blackbox protocol fuzzing is accepted by ASE 2025, see you in Seoul!
 
+## Award
+
+- Swinburne University Postgraduate Research Award (SUPRA)
+- ACM SIGSOFT Distinguished Paper Award (ASE 2025)
+
 ## Internship
 
 - **DiDi**, International Business Group, SDE
