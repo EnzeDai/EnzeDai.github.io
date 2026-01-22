@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi there, I am fortunate to be supervised by Prof. [Yang Xiang](https://nsclab.org/yang/) (IEEE Fellow), [Sheng Wen](https://experts.swinburne.edu.au/3615-sheng-wen), and [Xiaogang Zhu](https://researchers.adelaide.edu.au/profile/xiaogang.zhu). Previously, I obtained my Bachelor's Degree from Central South University and Master's Degree from Tsinghua University, under the supervision of Prof. [Xi Xiao](https://www.sigs.tsinghua.edu.cn/xx_en/main.psp).
+Hi there, I am fortunate to be supervised by Prof. [Yang Xiang](https://nsclab.org/yang/) (IEEE Fellow), [Sheng Wen](https://experts.swinburne.edu.au/3615-sheng-wen), and [Xiaogang Zhu](https://researchers.adelaide.edu.au/profile/xiaogang.zhu) (ARC DECRA Fellow). Previously, I obtained my Bachelor's Degree from Central South University and Master's Degree from Tsinghua University, under the supervision of Prof. [Xi Xiao](https://www.sigs.tsinghua.edu.cn/xx_en/main.psp).
 
 ## Research Interests
 
