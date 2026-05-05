@@ -9,7 +9,7 @@ Hi there, I am fortunate to be supervised by Prof. [Yang Xiang](https://nsclab.o
 ## Research Interests
 
 - **Fuzzing:** protocol fuzzing, fuzzing theory
-- **Agentic AI:**  code agent and its safety
+- **Agentic AI:**  harness engineering, safety issues
 
 ## Education
 
