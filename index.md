@@ -39,5 +39,5 @@ Hi there, I am fortunate to be supervised by Prof. [Yang Xiang](https://nsclab.o
 
 ## Services
 
-- Journal Co-Reviewer: *ACM Transactions on Software Engineering and Methodology (TOSEM), IEEEE Transactions on Software Engineering (TSE)*
+- Journal Co-Reviewer: *ACM Transactions on Software Engineering and Methodology (TOSEM), IEEE Transactions on Software Engineering (TSE)*
 - Conference Co-Reviewer: *USENIX Security, International Symposium on Software Testing and Analysis (ISSTA)*
