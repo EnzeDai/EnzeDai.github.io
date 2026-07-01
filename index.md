@@ -27,9 +27,9 @@ Hi there, I am fortunate to be supervised by Prof. [Yang Xiang](https://nsclab.o
 
 ## Award
 
+- Tsinghua University Outstanding Master Thesis Award
 - Swinburne University Postgraduate Research Award (SUPRA)
 - ACM SIGSOFT Distinguished Paper Award (ASE 2025)
-- Tsinghua University Outstanding Master Thesis Award
 
 ## Internship
 
