@@ -2,7 +2,7 @@
 
 (* means equal contribution)
 
-**[TIFS, CCF-A]** **Enze Dai**, Shuo Wang, Xi Xiao, Qing Li, Sheng Wen, Tianqing Zhu. MaliVD: Source Code Vulnerability Localization via Attention-Based Multi-Modal Learning.
+<font color="#FFA500">**[TIFS, CCF-A]**</font> **Enze Dai**, Shuo Wang, Xi Xiao, Qing Li, Sheng Wen, Tianqing Zhu. MaliVD: Source Code Vulnerability Localization via Attention-Based Multi-Modal Learning.
 
 **[AAAI 2026, CCF-A]** **Enze Dai**, Wentao Mo, Kun Hu, Xiaogang Zhu, Xi Xiao, Sheng Wen, Shaohua Wang, Yang Xiang. TwinFuzz: Dual-Model Fuzzing for Robustness Generalization in Deep Learning.
 
