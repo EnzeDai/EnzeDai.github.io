@@ -21,9 +21,9 @@ Hi there, I am fortunate to be supervised by Prof. [Yang Xiang](https://nsclab.o
 
 ## News
 
-- **[2025.11]** Our paper about robustness generalization in deep learning is accepted by AAAI 2026, see you in Singapore!
-- **[2025.11]** Our paper WingMuzz has won an ACM SIGSOFT Distinguished Paper Award!
-- **[2025.09]** Our paper about blackbox protocol fuzzing is accepted by ASE 2025, see you in Seoul!
+- <font color="#FFA500">[2025.11]</font> Our paper about robustness generalization in deep learning is accepted by AAAI 2026, see you in Singapore!
+- <font color="#FFA500">[2025.11]</font> Our paper WingMuzz has won an ACM SIGSOFT Distinguished Paper Award!
+- <font color="#FFA500">[2025.09]</font> Our paper about blackbox protocol fuzzing is accepted by ASE 2025, see you in Seoul!
 
 ## Award
 
