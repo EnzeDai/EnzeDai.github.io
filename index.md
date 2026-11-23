@@ -15,7 +15,7 @@ Hi there, I am fortunate to be supervised by Prof. [Yang Xiang](https://nsclab.o
 
 - **Central South University**, B.Eng., *Electronic Information Engineering*
 - **Tsinghua University**, M.Eng., *Computer Engineering*
-- **Swinburne University of Technology**, Ph.D, *Computer Science*
+- **Monash University**, Ph.D, *Computer Science*
 
 {% include_relative _includes/publications.md %}
 
