@@ -13,9 +13,9 @@ Hi there, I am fortunate to be supervised by Prof. [Yang Xiang](https://nsclab.o
 
 ## Education
 
-- **Central South University**, B.Eng., *Electronic Information Engineering*
-- **Tsinghua University**, M.Eng., *Computer Engineering*
 - **Monash University**, Ph.D, *Computer Science*
+- **Tsinghua University**, M.Eng., *Computer Engineering*
+- **Central South University**, B.Eng., *Electronic Information Engineering*
 
 {% include_relative _includes/publications.md %}
 
